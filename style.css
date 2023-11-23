@@ -1,3 +1,15 @@
 body {
     font-family: Helvetica, Arial, sans-serif;
 }
+
+h1 {
+    color:slategrey;
+}
+
+h2 {
+    color: rgb(89, 161, 89);
+}
+
+#enjoy {
+    background-color: yellow;
+}
